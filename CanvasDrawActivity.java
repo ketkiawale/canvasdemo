@@ -18,9 +18,7 @@ import mk.android.com.canvasdrawview.model.Shape;
 import mk.android.com.canvasdrawview.presenter.CanvasPresenter;
 import mk.android.com.canvasdrawview.util.Constants;
 
-/**
- * Created by Mayuri Khinvasara on 01,December,2018
- */
+
 public class CanvasDrawActivity extends AppCompatActivity {
     private static final String TAG = CanvasDrawActivity.class.getSimpleName();
     private CustomView canvas = null;
