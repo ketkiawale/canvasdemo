@@ -18,9 +18,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 import mk.android.com.canvasdrawview.model.Shape;
 
-/**
- * Created by Mayuri Khinvasara on 02,December,2018
- */
+
 public class StatsAdapter extends RecyclerView.Adapter<StatsAdapter.ViewHolder> {
 
     private HashMap<Shape.Type, Integer> mDataSet;
