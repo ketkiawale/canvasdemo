@@ -5,9 +5,6 @@ import android.view.View
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-/**
- * Created by Mayuri Khinvasara on 03,December,2018
- */
 class RecyclerViewEmptyObserver
 /**
  * Constructor to set an Empty View for the RV
