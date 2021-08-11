@@ -17,9 +17,7 @@ import androidx.appcompat.app.AlertDialog;
 import mk.android.com.canvasdrawview.model.Shape;
 import mk.android.com.canvasdrawview.util.Constants;
 
-/**
- * Created by Mayuri Khinvasara on 04,December,2018
- */
+
 
 /**
  * Handles business logic of creation , transformation  and deletion of shape
