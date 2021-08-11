@@ -4,9 +4,6 @@ import android.os.Parcel
 import android.os.Parcelable
 import mk.android.com.canvasdrawview.util.Constants
 
-/**
- * Created by Mayuri Khinvasara on 01,December,2018
- */
 class Shape() : Parcelable {
     /*
      Defines centroid of shape : x,y.  Pivot about which shape has to be drawn
