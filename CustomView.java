@@ -20,9 +20,7 @@ import mk.android.com.canvasdrawview.model.Shape;
 import mk.android.com.canvasdrawview.presenter.CanvasTouch;
 import mk.android.com.canvasdrawview.util.Constants;
 
-/**
- * Created by Mayuri Khinvasara on 01,December,2018
- */
+
 public class CustomView extends View {
     private static final String LOG_TAG = CustomView.class.getSimpleName();
     private final String TAG = CustomView.class.getSimpleName();
