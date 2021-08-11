@@ -4,9 +4,6 @@ import android.content.Context
 import android.util.Log
 import android.widget.Toast
 
-/**
- * Created by Mayuri Khinvasara on 03,December,2018
- */
 object ToastHelper {
 
     /*
