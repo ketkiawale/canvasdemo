@@ -1,8 +1,6 @@
 package mk.android.com.canvasdrawview.util
 
-/**
- * Created by Mayuri Khinvasara on 04,December,2018
- */
+
 object Constants {
 
     val RADIUS = 70
