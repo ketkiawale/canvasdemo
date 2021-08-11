@@ -9,9 +9,7 @@ import mk.android.com.canvasdrawview.model.Shape.Type
 import mk.android.com.canvasdrawview.util.Constants
 import java.io.Serializable
 
-/**
- * Created by Mayuri Khinvasara on 02,December,2018
- */
+
 class CanvasPresenter(private val canvas: CustomView, private val mContext: Context) {
 
     /**
